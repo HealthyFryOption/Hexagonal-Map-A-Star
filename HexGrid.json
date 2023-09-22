@@ -1,0 +1,18 @@
+{
+    "size": {"width":9, "height":6},
+    "rubbish bin":{"weight":40, "volume":5},
+    "start room":{"axialQ":0,"axialR":0},
+    "Rubbish Rooms":[
+        {"type":"rubbish", "axialQ":0,"axialR":5,"weight":10,"volume":1}, {"type":"rubbish", "axialQ":1,"axialR":2,"weight":30,"volume":3},
+        {"type":"rubbish", "axialQ":2,"axialR":1,"weight":5,"volume":1},{"type":"rubbish", "axialQ":3,"axialR":-1,"weight":5,"volume":1},
+        {"type":"rubbish", "axialQ":3,"axialR":2,"weight":5,"volume":3},  {"type":"rubbish", "axialQ":4,"axialR":0,"weight":10,"volume":2},
+        {"type":"rubbish", "axialQ":4,"axialR":2, "weight":20,"volume":1},{"type":"rubbish", "axialQ":6,"axialR":-2, "weight":10,"volume":2},
+        {"type":"rubbish", "axialQ":6,"axialR":1, "weight":5,"volume":2}, {"type":"rubbish", "axialQ":7,"axialR":-4, "weight":30,"volume":1},
+        {"type":"rubbish", "axialQ":7,"axialR":-1, "weight":20,"volume":2},{"type":"rubbish", "axialQ":8,"axialR":-3, "weight":10,"volume":3}
+    ],
+    "Disposal Rooms":[
+        {"type":"disposal", "axialQ":2,"axialR":4 },
+        {"type":"disposal", "axialQ":5,"axialR":-3 }  ,
+        {"type":"disposal", "axialQ":8,"axialR":1 }
+    ]
+}     
